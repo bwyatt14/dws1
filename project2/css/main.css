@@ -1,0 +1,156 @@
+body{
+	font-family: Arial, Verdana, sans-serif;
+	background-color: #c9e8e7;
+	text-align: center;
+	}
+	
+.wrapper{
+	width:	960px;
+	margin: 20px auto;
+	border: 1px solid #665544;
+	background-color: #ffffff;
+	}
+
+h1{
+	font-size: 72px;
+	width: 540px;
+	height: 80px;
+	margin: 30px auto;
+	padding: 20px 40px;
+	border: 1px solid #665544;
+	background-color:#efefef;
+	text-shadow: 2px 2px 7px #111111;
+	}
+
+nav{
+	font-size: 16px;
+	color: #ffffff;
+	background-color: #45g6d3;
+	height: 30px;
+	margin: 20px;
+	padding: 10px;
+	}
+
+nav ul{
+	margin: 0px;
+	padding: 5px 0px 5px 30px;
+	}
+
+nav li{
+	display: inline-block;
+	margin-right: 10px;
+	}
+	
+nav li a{
+	color: #000000;
+	}
+	
+nav li a:hover{
+	text-decoration: underline;
+	color: #1f41e8;
+	}
+
+section.types{
+			float: left;
+			width: 960px;
+			margin: 10px;
+			}
+
+article.types{
+			clear: both;
+			overflow: auto;
+			width: 960px;
+			}
+
+hgroup.types{
+			margin-top: 40px;
+			}
+			
+section.parts{
+			width: 960px;
+			}
+			
+article.parts{
+			clear: both;
+			overflow: auto;
+			width: 960px;
+			}
+			
+hgroup.parts{
+			margin-top: 40px;
+			}
+			
+ol.parts{
+		text-align: left;
+		}
+
+ul.electronics{
+		list-style-position: inside;
+		list-style-type: lower-roman;
+		}
+
+figure{
+	float: left;
+	border: 1px solid #eeeeee;
+	}
+
+figcaption{
+		font-size: 90%;
+		text-align:left;
+		}
+		
+h2{
+	font-size: 36px;
+	}
+
+h3{
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	}
+	
+p{
+	color: #665544;
+	width: 700px;
+	margin: 10px auto;
+	text-align: left;
+	line-height: 120%;
+	}
+
+strong{
+	color: #1f41e8;
+	font-weight: bold;
+	}
+
+em{
+	color: #000000;
+	font-weight: italic;
+	}
+	
+footer{
+	font-size: 16px;
+	color: #ffffff;
+	background-color: #45g6d3;
+	height: 30px;
+	margin: 20px;
+	padding: 10px;
+	}
+
+footer ul{
+	margin: 0px;
+	padding: 5px 0px 5px 30px;
+	}
+
+footer li{
+	display: inline-block;
+	margin-right: 10px;
+	}
+	
+footer li a{
+	color: #000000;
+	}
+	
+footer li a:hover{
+	text-decoration: underline;
+	color: #1f41e8;
+	}
