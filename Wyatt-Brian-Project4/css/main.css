@@ -1,0 +1,350 @@
+body{
+	font-family: Arial, Verdana, sans-serif;
+	background-color: #c9e8e7;
+	text-align: center;
+	background-image: url("../images/quorra.png");
+	}
+	
+.wrapper{
+	width:	90%;
+	margin: 0% auto;
+	border: 1px solid #665544;
+	background-color: #ffffff;
+	}
+	
+header{
+		width: 100%;
+		height: 10%;
+		background-image: url("../images/midnight-rampage.png");
+		background-repeat: repeat-x;
+		background-position: top;
+		padding: 5% 0%;
+		}
+		
+h1#top{
+	width: 50%;
+	height: 7.4%;
+	margin: auto;
+	padding: 0.462%;
+	border: 1px solid #665544;
+	}	
+		
+h1{
+	font-size: 4.500em;
+	background-color: #efefef;
+	text-shadow: 2px 2px 7px #111111;
+	}
+
+nav{
+	font-size: 1.000em;
+	color: #ffffff;
+	height: 27.77%;
+	width: 100%;
+	margin: 0.925% auto;
+	}
+	
+nav ul{
+	margin: 0%;
+	padding: 0.462% 2.77% 0.462% 0.462%;
+	}
+
+nav li{
+	display: inline-block;
+	margin-right: 0.925%;
+	}
+	
+nav li a{
+	color: #000000;
+	}
+	
+nav li a:hover{
+	text-decoration: underline;
+	color: #1f41e8;
+	}
+
+nav li a:visited{
+	text-decoration: underline;
+	color: #e31bff;
+	}
+	
+section#history{
+	width: 88.88%;
+	height: 3.88%;
+	padding: 0%;
+	margin: 0% auto;
+	}
+	
+div.section-header{
+			width: 100%;
+			height: 3.88%;
+			clear: right;
+			}
+
+div h2{
+	text-align: left;
+	font-size: 2.250em;
+	width: 50%;
+	height: 0.0925%;
+	margin: 0.925%;
+	padding: 3% 4.629% 4.629% 7.5%;
+	background-image: url("../images/bass-clef.png");
+	background-position: left;
+	background-repeat: no-repeat;
+	clear: left;
+	}
+
+h3{
+	font-size: 1.375em;
+	font-weight: bold;
+	text-align: left;
+	}
+
+p{
+	text-align: left;
+	}
+	
+strong{
+	color: #1f41e8;
+	font-weight: bold;
+	}
+
+em{
+	color: #000000;
+	font-style: italic;
+	}
+	
+article.content{
+	text-align: left;
+	width: 53.7%;
+	height: 45.37%;
+	padding: 0% 0.925% 0.925% 0.925%;
+	margin: 0.925% 0.925% 1.85% 1.85%;
+	float: left;
+	clear: right;
+	}
+	
+div.bass-history{
+	height: 3.88%;
+	}
+	
+aside.history-gallery{
+	background: linear-gradient(#fff, #abd);
+	width: 31.3%;
+	min-width: 270px
+	height: 50%;
+	min-height: 420px
+	border: 1px solid #665544;
+	margin: 0.925% 0.925% 0.925% 0.925%;
+	padding: 0.925% 0% 0%; 0%;
+	float: right;
+	}
+	
+figure#patent{
+				width: 268px;
+				height: 394px;
+				display: block;
+				margin: 0% auto;
+				}
+	
+section#types{
+	width: 88.88%;
+	height: 22.22%;
+	padding: 0%;
+	margin: 0% auto;
+	}
+	
+	
+aside.types-gallery{
+	background: linear-gradient(#fff, #abd);
+	width: 31.3%;
+	min-width: 280px;
+	height: 7.5%;
+	min-height: 230px;
+	border: 1px solid #665544;
+	margin: 0.925% 0.925% 0.925% 0.925%;
+	padding: 0.925% 0% 0% 0%;
+	float: right;
+	}
+
+figure#frettedBass{
+					width: 268px;
+					height: 95px;
+					display: block;
+					margin: 0% auto;
+					}
+					
+figure#fretlessBass{
+					width: 268px;
+					height: 95px;
+					display: block;
+					margin: 0% auto;
+					}
+
+section#parts{
+	width: 88.88%;
+	height: 22.22%;
+	padding: 0%;
+	margin: 0% auto;
+	clear: right;
+	}
+
+table {
+	border-spacing: 0px;
+	clear: left;
+	}
+	
+
+th, td {
+	padding: 5px 30px 5px 10px;
+	border-spacing: 0px;
+	font-size: 90%;
+	margin: 0px;
+	}
+
+th, td {
+	text-align: left;
+	background-color: #e0e9f0;
+	border-top: 1px solid #f1f8fe;
+	border-bottom: 1px solid #cbd2d8;
+	border-right: 1px solid #cbd2d8;
+	}
+
+tr.head th {
+	color: #fff;
+	background-color: #90b4d6;
+	border-bottom: 2px solid #547ca0;
+	border-right: 1px solid #749abe;
+	border-top: 1px solid #90b4d6;
+	text-align: center;
+	text-shadow: -1px -1px 1px #666666;
+	letter-spacing: 0.15em;
+	}
+
+td {
+	text-shadow: 1px 1px 1px #ffffff;
+	}
+
+
+div#parts ol{
+			list-style-type: upper-roman;
+			}
+			
+div#parts ul{
+			list-style-type: lower-roman;
+			}
+	
+aside.parts-gallery{
+	background: linear-gradient(#fff, #abd);
+	width: 31.3%;
+	min-width: 280px;
+	height: 50%;
+	min-height: 400px;
+	border: 1px solid #665544;
+	margin: 0.925% 0.925% 0.925% 0.925%;
+	float: right;
+	clear: left;
+	}
+
+figure#bass-body{
+					text-align: center;
+					width: 268px;
+					height: 94px;
+					display: block;
+					margin: 0% auto 40% auto;
+					padding-top: 0.925%
+					}
+
+figure#bass-neck{
+					text-align: center;
+					width: 268px;
+					height: 94px;
+					display: block;
+					margin: 0.0925% auto 0.0925% auto;
+					}
+								
+					
+fieldset {
+	width: 310px;
+	margin-top: 20px;
+	border: 1px solid #d6d6d6;
+	background-color: #ffffff;
+	line-height: 1.6em;
+		}
+legend {
+	font-style: italic;
+	color: #666666;
+	}
+	
+input[type="text"] {
+	width: 120px;
+	border: 1px solid #d6d6d6;
+	padding: 2px;
+	outline: none;
+	}
+	
+input[type="text"]:focus,
+
+input[type="text"]:hover {
+	background-color: #d0e2f0;
+	border: 1px solid #999999;
+	}
+	
+input[type="submit"] {
+	border: 1px solid #006633;
+	background-color: #009966;
+	color: #ffffff;
+	border-radius: 5px;
+	padding: 5px;
+	margin-top: 10px;
+	}
+	
+input[type="submit"]:hover {
+	border: 1px solid #006633;
+	background-color: #00cc33;
+	color: #ffffff;
+	cursor: pointer;
+	}
+	
+.title {
+	float: left;
+	width: 160px;
+	clear: left;
+	}
+	
+.submit {
+	width: 310px;
+	text-align: right;
+	}
+
+footer{
+	font-size: 1.000em;
+	color: #ffffff;
+	height: 2.77%;
+	margin: 1.851%;
+	padding: 0.925%;
+	clear: left;
+	}
+	
+footer ul{
+	margin: 0%;
+	padding: 0.000171% 0% 0.000171% 2.77%;
+	}
+
+footer li{
+	display: inline-block;
+	margin-right: 0.925%;
+	}
+	
+footer li a{
+	color: #000000;
+	}
+	
+footer li a:hover{
+	text-decoration: underline;
+	color: #1f41e8;
+	}
+
+footer li a:visited{
+	text-decoration: underline;
+	color: #e31bff;
+	}
